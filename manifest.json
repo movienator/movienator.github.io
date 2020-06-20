@@ -1,7 +1,7 @@
 {
   "name": "Movienator",
   "short_name": "Movienator",
-  "start_url": ".",
+  "start_url": "https://movienator.github.io",
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
